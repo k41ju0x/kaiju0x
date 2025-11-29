@@ -1,11 +1,11 @@
 # Hello, I'm CHRIS
-<a href="https://www.linkedin.com/in/christopher-toledo-pm-2b7624118/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/christopher-toledo-sof-cema/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently serving in the military with over 21 years of experience as an Electronic Warfare and Cyberspace Operator/Planner. I hold a Bachelor's degree in Cybersecurity and a Master's degree in Project Management.
+With more than 21 years of military service as an Electronic Warfare and Cyberspace Operator/Planner, I bring extensive operational and technical experience to my evolving cybersecurity path. I also hold a Bachelor's in Cybersecurity and a Master's in Project Management.
 
 ## Objective
 
-My journey in computer technology has fueled a strong passion for cybersecurity, and I am now focused on transitioning into this field with the goal of contributing to a Security Operations Center (SOC) as a Tier 1 Analyst or applying my skills as a Penetration Tester.
+I am currently expanding my expertise into red teaming—specifically penetration testing and web application penetration testing—with the long-term goal of transitioning into bug bounty hunting.
 
 
 ## Certifications
@@ -14,8 +14,8 @@ My journey in computer technology has fueled a strong passion for cybersecurity,
 <img src="https://img.shields.io/badge/CompTIA-CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA-CSAP-006400?style=for-the-badge&logo=CompTIA&logoColor=white" />    
 <img src="https://img.shields.io/badge/EC--Council-CEH-005C5C?style=for-the-badge&logo=EC-Council&logoColor=white" />
+<img src="https://img.shields.io/badge/INE-ICCA-FF6C37?style=for-the-badge&logo=ine&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-THM%20SOC%20Level%201-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM SOC Level 1 Badge">
 <img src="https://img.shields.io/badge/-Google%20Cloud%20Computing%20Foundations-4285F4?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Computing Foundations Badge">
 <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Fundamentals Badge">
 
