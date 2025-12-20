@@ -14,6 +14,7 @@ I am currently expanding my expertise into red teaming—specifically penetratio
 <img src="https://img.shields.io/badge/CompTIA-CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/CompTIA-CSAP-006400?style=for-the-badge&logo=CompTIA&logoColor=white" />    
 <img src="https://img.shields.io/badge/EC--Council-CEH-005C5C?style=for-the-badge&logo=EC-Council&logoColor=white" />
+<img src="https://img.shields.io/badge/-TCM%20Security%20PORP-5B2D8B?&style=for-the-badge&logoColor=white" alt="TCM Security PORP Badge">
 <img src="https://img.shields.io/badge/INE-ICCA-FF6C37?style=for-the-badge&logo=ine&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cloud%20Computing%20Foundations-4285F4?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Computing Foundations Badge">
