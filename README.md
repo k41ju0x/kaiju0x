@@ -10,18 +10,23 @@ I am currently expanding my expertise into red teaming—specifically penetratio
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA-CySA%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA-CSAP-006400?style=for-the-badge&logo=CompTIA&logoColor=white" />    
-<img src="https://img.shields.io/badge/CompTIA-PenTest%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<h3>🛡️ Cybersecurity Certifications</h3>
+
+<img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA-CySA%2B-4D4D4D?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA-PenTest%2B-111111?style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/CompTIA-CSAP-006400?style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/EC--Council-CEH-005C5C?style=for-the-badge&logo=EC-Council&logoColor=white" />
-<img src="https://img.shields.io/badge/-TCM%20Security%20PORP-5B2D8B?&style=for-the-badge&logoColor=white" alt="TCM Security PORP Badge">
-<img src="https://img.shields.io/badge/-TCM%20Security%20PJPT-5B2D8B?&style=for-the-badge&logoColor=white" alt="TCM Security PJPT Badge">
-<img src="https://img.shields.io/badge/ISC2-CC-00A651?style=for-the-badge&logoColor=white" alt="ISC2 Certified in Cybersecurity Badge">
+<img src="https://img.shields.io/badge/TCM%20Security-PJPT-5B2D8B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/TCM%20Security-PORP-5B2D8B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ISC2-CC-00A651?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/INE-ICCA-FF6C37?style=for-the-badge&logo=ine&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20Cloud%20Computing%20Foundations-4285F4?&style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Computing Foundations Badge">
-<img src="https://img.shields.io/badge/-Microsoft%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Fundamentals Badge">
+
+<h3>☁️ Cloud Certifications</h3>
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-Computing%20Foundations-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
 
 </div>
